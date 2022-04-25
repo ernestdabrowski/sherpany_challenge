@@ -1,0 +1,4 @@
+org\project\components\LoginForm.class
+org\project\components\LoginPageItem.class
+org\project\pageobjects\LoginPage.class
+org\project\AbstractPage.class

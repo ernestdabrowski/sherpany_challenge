@@ -1,0 +1,12 @@
+{
+  "DEV": [
+  ],
+  "STG": [
+  ],
+  "PRD": [
+    {
+      "email": "demoemail@sherpany.com",
+      "password": "Qwerty123"
+    }
+  ]
+}

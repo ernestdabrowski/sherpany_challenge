@@ -1,0 +1,4 @@
+# Created at 2022-04-25T20:34:36.368
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Sherpany\sherpany_challenge\test-logic\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

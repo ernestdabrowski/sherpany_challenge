@@ -1,0 +1,9 @@
+org\project\tests\TestCases.class
+org\project\configuration\Browser.class
+org\project\configuration\Configuration.class
+org\project\tests\AbstractTest.class
+org\project\model\User.class
+org\project\configuration\TestData$1.class
+org\project\configuration\TestData.class
+org\project\factory\WebDriverFactory.class
+org\project\model\EnvironmentData.class

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f50db49-83f3-4284-b798-46564e4ad02c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="289qAgn1aRwXgN5sSnKfv3w9aSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestCases">
+    <configuration name="TestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-test-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.project.tests.TestCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.shouldSherpanyPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-test-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.project.tests.TestCases" />
+      <option name="METHOD_NAME" value="shouldSherpanyPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verfiyFooterLinks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-test-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.project.tests.TestCases" />
+      <option name="METHOD_NAME" value="verfiyFooterLinks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifyLanguageSelectorSherpanyLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-test-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.project.tests.TestCases" />
+      <option name="METHOD_NAME" value="verifyLanguageSelectorSherpanyLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifyLoginFormSherpanyLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-test-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.project.tests.TestCases" />
+      <option name="METHOD_NAME" value="verifyLoginFormSherpanyLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCases" />
+        <item itemvalue="JUnit.TestCases.verifyLoginFormSherpanyLoginPage" />
+        <item itemvalue="JUnit.TestCases.verfiyFooterLinks" />
+        <item itemvalue="JUnit.TestCases.verifyLanguageSelectorSherpanyLoginPage" />
+        <item itemvalue="JUnit.TestCases.shouldSherpanyPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f50db49-83f3-4284-b798-46564e4ad02c" name="Default Changelist" comment="" />
+      <created>1650639008322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650639008322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="983" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650646442655">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="983" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650646442655" />
+    <state x="933" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1650906576066">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="933" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650906576066" />
+    <state x="1010" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650658925144">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1010" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650658925144" />
+    <state x="1035" y="229" key="#xdebugger.evaluate" timestamp="1650655916099">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1035" y="229" key="#xdebugger.evaluate/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650655916099" />
+    <state x="908" y="122" key="CommitChangelistDialog2" timestamp="1650912462696">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="908" y="122" key="CommitChangelistDialog2/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650912462696" />
+    <state width="2517" height="285" key="GridCell.Tab.0.bottom" timestamp="1650911841886">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650911841886" />
+    <state width="2517" height="285" key="GridCell.Tab.0.center" timestamp="1650911841886">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="285" key="GridCell.Tab.0.center/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650911841886" />
+    <state width="2517" height="285" key="GridCell.Tab.0.left" timestamp="1650911841886">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="285" key="GridCell.Tab.0.left/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650911841886" />
+    <state width="2517" height="285" key="GridCell.Tab.0.right" timestamp="1650911841886">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="285" key="GridCell.Tab.0.right/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650911841886" />
+    <state width="2517" height="352" key="GridCell.Tab.1.bottom" timestamp="1650908809513">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="352" key="GridCell.Tab.1.bottom/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650908809513" />
+    <state width="2517" height="352" key="GridCell.Tab.1.center" timestamp="1650908809513">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="352" key="GridCell.Tab.1.center/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650908809513" />
+    <state width="2517" height="352" key="GridCell.Tab.1.left" timestamp="1650908809513">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="352" key="GridCell.Tab.1.left/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650908809513" />
+    <state width="2517" height="352" key="GridCell.Tab.1.right" timestamp="1650908809513">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="352" key="GridCell.Tab.1.right/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650908809513" />
+    <state x="781" y="168" key="SettingsEditor" timestamp="1650911498739">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="781" y="168" key="SettingsEditor/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650911498739" />
+    <state x="872" y="259" key="Vcs.Push.Dialog.v2" timestamp="1650912473233">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="872" y="259" key="Vcs.Push.Dialog.v2/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650912473233" />
+    <state x="837" y="262" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1650718207089">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="837" y="262" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650718207089" />
+    <state x="936" y="243" key="run.anything.popup" timestamp="1650875125407">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="936" y="243" key="run.anything.popup/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650875125407" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1650876981429">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050/-1920.0.1536.834@0.0.2560.1050" timestamp="1650876981429" />
+  </component>
+</project>
